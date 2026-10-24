@@ -1,10 +1,10 @@
 ## Hi there 👋
 <p align="center">
   <ul>
-    <li style="list-style-type: none;>🔭 I’m currently working on my software engineering diploma</li>
-    <li style="list-style-type: none;>🌱 I’m currently learning React, Express, C, data analytics with Python, and Node.js</li>
-    <li style="list-style-type: none;>📫 How to reach me: Drop me a message on LinkedIn!</li>
-    <li style="list-style-type: none;>⚡ Fun fact: I love diving, I speak Japanese, but no, I don't watch anime that much</li>
+    <li style="list-style-type: none;">🔭 I’m currently working on my software engineering diploma</li>
+    <li style="list-style-type: none;">🌱 I’m currently learning React, Express, C, data analytics with Python, and Node.js</li>
+    <li style="list-style-type: none;">📫 How to reach me: Drop me a message on LinkedIn!</li>
+    <li style="list-style-type: none;">⚡ Fun fact: I love diving, I speak Japanese, but no, I don't watch anime that much</li>
   </ul>
 </p>
 
