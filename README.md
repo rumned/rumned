@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7aa2f7&center=true&vCenter=true&random=false&width=650&lines=Hi+there+%F0%9F%91%8B;Student+at+Forward+College;Full-stack+software+development;Network+engineering+%26+cybersecurity;I+do+%3Cdiv%3E+and+dive" alt="Typing intro" />
+</p>
+
 ## Hi there 👋
 <p align="center">
   🔭 I’m currently working on my software engineering diploma<br>
@@ -5,6 +9,21 @@
   📫 How to reach me: Drop me a message on LinkedIn!<br>
   ⚡ Fun fact: I love diving, I speak Japanese, but no, I don't watch anime that much
 </p>
+
+---
+
+<h3 align="center">About me</h3>
+
+```yaml
+Name: Mohammad Ramdzuanny
+Role: Student at Forward College
+Focus:
+  - Full-stack software development
+  - Network engineering
+  - Cybersecurity
+```
+
+---
 
 <h3 align="center">Languages and tools</h3>
 
@@ -34,6 +53,37 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
+---
+
+<h3 align="center">Tech stack</h3>
+
+<h4 align="center">Languages</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,js,py,html,css" alt="Languages" />
+</p>
+
+<h4 align="center">Frontend</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,bootstrap" alt="Frontend" />
+</p>
+
+<h4 align="center">Backend</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend" />
+</p>
+
+<h4 align="center">Data science</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn" alt="Data science" />
+</p>
+
+<h4 align="center">Tools</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker" alt="Tools" />
+</p>
+
+---
+
 <h3 align="center">GitHub stats</h3>
 
 <p align="center">
@@ -44,3 +94,54 @@
   <img src="https://streak-stats.demolab.com/?user=rumned&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rumned&theme=tokyonight" width="100%" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rumned&theme=tokyonight" width="49%" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rumned&theme=tokyonight&utcOffset=8" width="49%" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rumned&theme=tokyonight" width="49%" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rumned&theme=tokyonight" width="49%" alt="Most commit language" />
+</p>
+
+---
+
+<h3 align="center">Contribution graph</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rumned&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+</p>
+
+---
+
+<h3 align="center">Fun facts</h3>
+
+```text
+🤿 I love diving
+🇯🇵 I speak Japanese
+📺 No, I don't watch anime that much
+💻 I do <div> and dive
+```
+
+---
+
+<h3 align="center">Connect with me</h3>
+
+<p align="center">
+  <a href="https://github.com/rumned">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-ramdzuanny-bin-musram-rakunman-15aa271b1/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"I do &lt;div&gt; and dive"</i>
+</p>
