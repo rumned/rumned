@@ -2,15 +2,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7aa2f7&center=true&vCenter=true&random=false&width=650&lines=Hi+there+%F0%9F%91%8B;Student+at+Forward+College;Full-stack+software+development;Network+engineering+%26+cybersecurity;I+do+%3Cdiv%3E+and+dive" alt="Typing intro" />
 </p>
 
-## Hi there 👋
+## Mohammad Ramdzuanny
 <p align="center">
-  🔭 I’m currently working on my software engineering diploma<br>
+  ⚡ I’m currently working on my software engineering diploma<br>
   🌱 I’m currently learning React, Express, C, data analytics with Python, and Node.js<br>
   📫 How to reach me: Drop me a message on LinkedIn!<br>
-  ⚡ Fun fact: I love diving, I speak Japanese, but no, I don't watch anime that much
 </p>
 
 ---
+
+<h3 align="center">Fun facts</h3>
+
+```text
+🤿 I love diving
+🇯🇵 I speak Japanese
+📺 No, I don't watch anime that much
+💻 I do <div> and dive
+```
 
 <h3 align="center">About me</h3>
 
@@ -117,16 +125,6 @@ Focus:
 </p>
 
 ---
-
-<h3 align="center">Fun facts</h3>
-
-```text
-🤿 I love diving
-🇯🇵 I speak Japanese
-📺 No, I don't watch anime that much
-💻 I do <div> and dive
-```
-
 ---
 
 <h3 align="center">Connect with me</h3>
@@ -141,7 +139,3 @@ Focus:
 </p>
 
 ---
-
-<p align="center">
-  <i>"I do &lt;div&gt; and dive"</i>
-</p>
