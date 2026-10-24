@@ -2,12 +2,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7aa2f7&center=true&vCenter=true&random=false&width=650&lines=Hi+there+%F0%9F%91%8B;Student+at+Forward+College;Full-stack+software+development;Network+engineering+%26+cybersecurity;I+do+%3Cdiv%3E+and+dive" alt="Typing intro" />
 </p>
 
-## Mohammad Ramdzuanny
-<p align="center">
+<h1 align="center">Mohammad Ramdzuanny</h1>
+<!-- <p align="center">
   ⚡ I’m currently working on my software engineering diploma<br>
   🌱 I’m currently learning React, Express, C, data analytics with Python, and Node.js<br>
   📫 How to reach me: Drop me a message on LinkedIn!<br>
-</p>
+</p> -->
+```text
+⚡ I’m currently working on my software engineering diploma
+🌱 I’m currently learning React, Express, C, data analytics with Python, and Node.js
+📫 How to reach me: Drop me a message on LinkedIn
+```
 
 ---
 
@@ -89,7 +94,7 @@
 </p>
 
 ---
----
+
 <h3 align="center">All-time stats</h3>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rumned&theme=dark" width="100%" alt="Profile details" />
