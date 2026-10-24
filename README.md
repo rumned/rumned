@@ -17,16 +17,7 @@
 
 ---
 
-<h3 align="center">Fun facts</h3>
 
-```text
-🤿 I love diving
-🇯🇵 I speak Japanese
-📺 No, I don't watch anime that much
-💻 I do <div> and dive
-```
-
----
 <p align="center">
   <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white" alt="42" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -111,11 +102,21 @@
 
 ---
 
-<h3 align="center">Contribution graph</h3>
+<h3 align="center">Fun facts</h3>
+
+```text
+🤿 I love diving
+🇯🇵 I speak Japanese
+📺 No, I don't watch anime that much
+💻 I do <div> and dive
+```
+
+---
+<!-- <h3 align="center">Contribution graph</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rumned&theme=dark&hide_border=true" alt="Contribution graph" />
-</p>
+</p> -->
 
 ---
 
