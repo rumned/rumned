@@ -97,7 +97,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rumned&theme=tokyonight" width="49%" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rumned&theme=tokyonight&utcOffset=8" width="49%" alt="Productive time" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rumned&theme=tokyonight&utcOffset=8" width="49%" alt="Productive time" /> -->
 </p>
 
 <p align="center">
