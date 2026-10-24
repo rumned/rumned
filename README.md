@@ -8,6 +8,7 @@
   🌱 I’m currently learning React, Express, C, data analytics with Python, and Node.js<br>
   📫 How to reach me: Drop me a message on LinkedIn!<br>
 </p> -->
+
 ```text
 ⚡ I’m currently working on my software engineering diploma
 🌱 I’m currently learning React, Express, C, data analytics with Python, and Node.js
