@@ -98,10 +98,12 @@
 
 <h3 align="center">All-time stats</h3>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rumned&theme=dark" width="60%" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rumned&theme=dark" width="40%" alt="Stats" />
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rumned&theme=dark&utcOffset=8" width="49%" alt="Productive time" /> -->
 </p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rumned&theme=dark" width="30%" alt="Profile details" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rumned&theme=dark" width="60%" alt="Profile details" />
+</p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rumned&theme=dark" width="30%" alt="Repos per language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rumned&theme=dark" width="30%" alt="Most commit language" />
