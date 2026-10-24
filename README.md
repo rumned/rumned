@@ -90,8 +90,8 @@
   <img height="240" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rumned&layout=compact&theme=dark&hide_border=true" width="60%" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=rumned&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=rumned&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=rumned&show_icons=true&theme=dark&hide_border=true" width="60%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=rumned&theme=dark&hide_border=true" width="60%" alt="GitHub Streak" />
 </p>
 
 ---
@@ -102,7 +102,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rumned&theme=dark" width="100%" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rumned&theme=dark" width="60%" alt="Stats" />
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rumned&theme=dark&utcOffset=8" width="49%" alt="Productive time" /> -->
 </p>
 
