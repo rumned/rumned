@@ -92,17 +92,17 @@
 ---
 <h3 align="center">All-time stats</h3>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rumned&theme=tokyonight" width="100%" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rumned&theme=dark" width="100%" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rumned&theme=tokyonight" width="49%" alt="Stats" />
-  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rumned&theme=tokyonight&utcOffset=8" width="49%" alt="Productive time" /> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rumned&theme=dark" width="49%" alt="Stats" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rumned&theme=dark&utcOffset=8" width="49%" alt="Productive time" /> -->
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rumned&theme=tokyonight" width="49%" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rumned&theme=tokyonight" width="49%" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rumned&theme=dark" width="49%" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rumned&theme=dark" width="49%" alt="Most commit language" />
 </p>
 
 ---
@@ -110,7 +110,7 @@
 <h3 align="center">Contribution graph</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rumned&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rumned&theme=dark&hide_border=true" alt="Contribution graph" />
 </p>
 
 ---
