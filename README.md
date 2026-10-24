@@ -87,7 +87,7 @@
 <h3 align="center">GitHub stats</h3>
 
 <p align="center">
-  <img height="240" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rumned&layout=compact&theme=dark&hide_border=true" width="80%" alt="Top Languages" />
+  <img height="240" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rumned&layout=compact&theme=dark&hide_border=true" width="60%" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=rumned&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
@@ -107,8 +107,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rumned&theme=dark" width="100%" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rumned&theme=dark" width="100%" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rumned&theme=dark" width="60%" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rumned&theme=dark" width="60%" alt="Most commit language" />
 </p>
 
 ---
