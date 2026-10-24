@@ -21,9 +21,9 @@
 
 <p align="center">
   <img height="240" src="https://github-stats-extended.vercel.app/api?username=rumned&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img height="240" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rumned&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=rumned&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rumned&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img height="240" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rumned&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
