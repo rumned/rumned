@@ -88,6 +88,9 @@
   <img src="https://streak-stats.demolab.com/?user=rumned&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
+---
+---
+<h3 align="center">All-time stats</h3>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rumned&theme=tokyonight" width="100%" alt="Profile details" />
 </p>
@@ -110,7 +113,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rumned&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
 </p>
 
----
 ---
 
 <h3 align="center">Connect with me</h3>
