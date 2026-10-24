@@ -20,21 +20,7 @@
 💻 I do <div> and dive
 ```
 
-<h3 align="center">About me</h3>
-
-```yaml
-Name: Mohammad Ramdzuanny
-Role: Student at Forward College
-Focus:
-  - Full-stack software development
-  - Network engineering
-  - Cybersecurity
-```
-
 ---
-
-<h3 align="center">Languages and tools</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white" alt="42" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -67,7 +53,7 @@ Focus:
 
 <h4 align="center">Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,py,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,js,py,html,css,fortran" alt="Languages" />
 </p>
 
 <h4 align="center">Frontend</h4>
@@ -82,12 +68,12 @@ Focus:
 
 <h4 align="center">Data science</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn" alt="Data science" />
+  <img src="https://skillicons.dev/icons?i=sklearn,anaconda" alt="Data science" />
 </p>
 
 <h4 align="center">Tools</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,azure,selenium,postman,debian" alt="Tools" />
 </p>
 
 ---
