@@ -50,7 +50,7 @@
 
 <h4 align="center">Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,py,html,css,php,fortran" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,js,py,php,html,css,fortran" alt="Languages" />
 </p>
 
 <h4 align="center">Frontend</h4>
