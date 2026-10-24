@@ -1,9 +1,12 @@
 ## Hi there 👋
-
-- 🔭 I’m currently working on my software engineering diploma
-- 🌱 I’m currently learning React, Express, C, data analytics with Python, and Node.js
-- 📫 How to reach me: Drop me a message on LinkedIn!
-- ⚡ Fun fact: I love diving, I speak Japanese, but no, I don't watch anime that much
+<p align="center">
+  <ul>
+    <li>🔭 I’m currently working on my software engineering diploma</li>
+    <li>🌱 I’m currently learning React, Express, C, data analytics with Python, and Node.js</li>
+    <li>📫 How to reach me: Drop me a message on LinkedIn!</li>
+    <li>⚡ Fun fact: I love diving, I speak Japanese, but no, I don't watch anime that much</li>
+  </ul>
+</p>
 
 <h3 align="center">Languages and tools</h3>
 
@@ -19,8 +22,8 @@
 <h3 align="center">GitHub stats</h3>
 
 <p align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=rumned&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rumned&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img height="240" src="https://github-stats-extended.vercel.app/api?username=rumned&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img height="240" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rumned&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
