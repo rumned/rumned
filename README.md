@@ -64,7 +64,7 @@
 
 <h4 align="center">Frontend</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,bootstrap" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,vite,bootstrap,vercel" alt="Frontend" />
 </p>
 
 <h4 align="center">Backend</h4>
